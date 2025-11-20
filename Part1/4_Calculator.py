@@ -29,4 +29,5 @@
 # 4 - 6 = -2
 
 # Write your code here:
+int(input("Type a numbe"))
 
